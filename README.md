@@ -48,8 +48,6 @@
 
 📊 GitHub Stats:
 
-![Trophies](https://github-profile-trophy-mirror.vercel.app/?username=RohitKumar9890&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RohitKumar9890&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RohitKumar9890&theme=dark&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
